@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Gustavo Bernardo Victorino Batista</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="toolbar no-print">
+    <span class="last-updated" id="lastUpdated"></span>
+    <div class="toolbar-buttons">
+      <button id="themeToggle" class="btn">🌓 Alternar Tema</button>
+      <button onclick="window.print()" class="btn btn-primary">📄 Salvar PDF</button>
+    </div>
+  </div>
+
+  <main class="cv-sheet">
+    <!-- Cabeçalho -->
+    <header class="cv-header">
+      <div class="header-text">
+        <h1 id="fullName"></h1>
+        <p class="subtitle" id="professionalTitle"></p>
+
+        <div class="contact-list" id="contactList"></div>
+        <div class="links-list" id="linksList"></div>
+      </div>
+
+      <div class="header-photo-wrapper" id="photoWrapper">
+        <img id="profilePhoto" src="" alt="Foto de perfil">
+      </div>
+    </header>
+
+    <!-- Resumo Profissional -->
+    <section class="section">
+      <h2 class="section-title">Resumo Profissional</h2>
+      <p class="summary-text" id="summaryDescription"></p>
+      <div class="badges-row" id="summaryBadges"></div>
+    </section>
+
+    <div class="layout-columns">
+      <!-- Coluna Esquerda (Principal) -->
+      <div class="col-main">
+        <section class="section" id="projectsSection">
+          <h2 class="section-title">Projetos</h2>
+          <div id="projectsContainer" class="stack-list"></div>
+        </section>
+
+        <section class="section" id="experienceSection">
+          <h2 class="section-title">Experiência Profissional</h2>
+          <div id="experienceContainer" class="stack-list"></div>
+        </section>
+
+        <section class="section" id="educationSection">
+          <h2 class="section-title">Formação Acadêmica</h2>
+          <div id="educationContainer" class="stack-list"></div>
+        </section>
+      </div>
+
+      <!-- Coluna Direita (Lateral) -->
+      <aside class="col-side">
+        <section class="section" id="skillsSection">
+          <h2 class="section-title">Habilidades Técnicas</h2>
+          <div id="technicalSkillsContainer" class="skills-grid"></div>
+        </section>
+
+        <section class="section" id="toolsSection">
+          <h2 class="section-title">Ferramentas & Metodologias</h2>
+          <div id="toolsContainer" class="tags-wrap"></div>
+        </section>
+
+        <section class="section" id="coursesSection">
+          <h2 class="section-title">Cursos</h2>
+          <div id="coursesContainer" class="stack-list"></div>
+        </section>
+
+        <section class="section" id="certificationsSection" style="display: none;">
+          <h2 class="section-title">Certificações</h2>
+          <div id="certificationsContainer" class="stack-list"></div>
+        </section>
+
+        <section class="section" id="softSkillsSection">
+          <h2 class="section-title">Competências</h2>
+          <div id="behavioralContainer" class="tags-wrap"></div>
+        </section>
+
+        <section class="section" id="languagesSection">
+          <h2 class="section-title">Idiomas</h2>
+          <ul id="languagesContainer" class="clean-list"></ul>
+        </section>
+
+        <section class="section" id="availabilitySection">
+          <h2 class="section-title">Disponibilidade & Preferências</h2>
+          <div id="availabilityContainer" class="meta-box"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

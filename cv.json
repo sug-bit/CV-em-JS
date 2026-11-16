@@ -1,0 +1,188 @@
+{
+    "cv": {
+      "metadata": {
+        "version": "1.0",
+        "language": "pt-BR",
+        "lastUpdated": "2026-11-16"
+      },
+      "personalInformation": {
+        "fullName": "Gustavo Bernardo Victorino Batista",
+        "professionalTitle": "Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas",
+        "profilePhoto": "photo.png",
+        "email": "gustavo.b.victorino@gmail.com",
+        "phone": "(11) 97193-4360",
+        "whatsapp": "(11) 97193-4360",
+        "location": {
+          "city": "Suzano",
+          "state": "São Paulo",
+          "country": "Brazil",
+          "address": "Rua Leila Margarida Takeuchi 208"
+        },
+        "linkedin": "https://www.linkedin.com/in/gustavo-victorino",
+        "github": "https://github.com/sug-bit",
+        "portfolio": "https://sug-bit.github.io/",
+        "website": ""
+      },
+      "professionalSummary": {
+        "description": "Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web full-stack, automação em Python e soluções baseadas em Inteligência Artificial Generativa. Experiência prática na construção de interfaces responsivas, lógica de programação, controle de versão com Git e manipulação de dados.",
+        "yearsOfExperience": 0,
+        "mainSpecialization": "Desenvolvimento Web e Python",
+        "careerObjective": "Estágio em Desenvolvimento Web / Inteligência Artificial Generativa"
+      },
+      "professionalExperience": [
+        {
+          "company": "SPDM - Hospital Regional do Alto Tietê",
+          "position": "Técnico de Enfermagem",
+          "employmentType": "CLT",
+          "location": "Suzano, SP",
+          "startDate": "2025-01",
+          "endDate": "",
+          "current": true,
+          "description": "Atuação em ambiente hospitalar de alta complexidade em escala 12x36, exercendo comunicação assertiva, trabalho em equipe multidisciplinar, gestão de prioridades sob pressão e cumprimento rigoroso de protocolos.",
+          "responsibilities": [
+            "Execução de procedimentos técnicos seguindo rigorosos padrões de qualidade e segurança",
+            "Registro e organização de dados operacionais e clínicos",
+            "Colaboração com equipes multidisciplinares para resolução ágil de demandas"
+          ],
+          "achievements": [],
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "institution": "Centro Universitário Piaget (UniPiaget)",
+          "degree": "Tecnólogo",
+          "fieldOfStudy": "Análise e Desenvolvimento de Sistemas",
+          "level": "Ensino Superior",
+          "startDate": "2026-08",
+          "endDate": "2029-02",
+          "current": true,
+          "description": "Formação focada em engenharia de software, lógica de programação, algoritmos, desenvolvimento web, estruturas de dados e banco de dados."
+        }
+      ],
+      "skills": {
+        "technical": [
+          {
+            "name": "HTML5",
+            "level": "Intermediário"
+          },
+          {
+            "name": "CSS3",
+            "level": "Intermediário"
+          },
+          {
+            "name": "JavaScript",
+            "level": "Intermediário"
+          },
+          {
+            "name": "Python",
+            "level": "Intermediário"
+          }
+        ],
+        "behavioral": [
+          "Resolução de problemas",
+          "Trabalho sob pressão",
+          "Comunicação assertiva",
+          "Aprendizado contínuo",
+          "Trabalho em equipe"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "Visual Studio Code",
+          "GitHub Pages"
+        ],
+        "methodologies": [
+          "Controle de Versão",
+          "Desenvolvimento Modular"
+        ]
+      },
+      "languages": [
+        {
+          "name": "Português",
+          "proficiency": "Nativo"
+        },
+        {
+          "name": "Inglês",
+          "proficiency": "Básico"
+        }
+      ],
+      "certifications": [],
+      "projects": [
+        {
+          "name": "Painel do Dono - Data Warehouse Financeiro",
+          "description": "Aplicação web de análise financeira com integração back-end em Python, cadastro de clientes, controles dinâmicos de interface e alternância entre temas claro e escuro.",
+          "role": "Desenvolvedor Full-Stack",
+          "technologies": [
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git"
+          ],
+          "url": "https://github.com/sug-bit",
+          "startDate": "2026-10",
+          "endDate": "2026-11"
+        },
+        {
+          "name": "Calculadora de Compras com Desconto Progressivo",
+          "description": "Protótipo funcional modular para cálculo dinâmico de compras e aplicação automática de faixas de desconto progressivo por meio de eventos DOM.",
+          "role": "Desenvolvedor Front-End",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "url": "https://github.com/sug-bit",
+          "startDate": "2026-10",
+          "endDate": "2026-10"
+        },
+        {
+          "name": "Portfólio Web Pessoal",
+          "description": "Página web responsiva hospedada no GitHub Pages para apresentação de projetos, habilidades técnicas e informações de contato.",
+          "role": "Desenvolvedor Front-End",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "url": "https://sug-bit.github.io/",
+          "startDate": "2026-09",
+          "endDate": "2026-11"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Curso de Programação",
+          "institution": "Curso em Vídeo",
+          "completionDate": "2026-10",
+          "workloadHours": 40
+        }
+      ],
+      "additionalInformation": {
+        "availability": "Imediata",
+        "workModel": "Híbrido, Remoto ou Presencial",
+        "travelAvailability": true,
+        "additionalNotes": "Disponível para atuar na região de São Paulo."
+      },
+      "preferences": {
+        "targetPositions": [
+          "Estagiário em Desenvolvimento Web",
+          "Estagiário em Inteligência Artificial Generativa",
+          "Desenvolvedor Web",
+          "Desenvolvedor Front-End Júnior"
+        ],
+        "targetIndustries": [
+          "Tecnologia da Informação",
+          "Desenvolvimento de Software",
+          "Inteligência Artificial"
+        ],
+        "preferredLocations": [
+          "Suzano",
+          "São Paulo",
+          "Remoto"
+        ],
+        "preferredWorkModel": "Híbrido"
+      }
+    }
+  }
